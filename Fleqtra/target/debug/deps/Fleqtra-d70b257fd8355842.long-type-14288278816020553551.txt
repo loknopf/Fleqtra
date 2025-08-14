@@ -1,0 +1,2 @@
+fn(State<UserService>, AuthenticatedUser) -> impl Future<Output = impl IntoResponse> {refresh}
+fn(State<UserService>, AuthenticatedUser) -> impl Future<Output = impl IntoResponse> {refresh}: Handler<_, _>

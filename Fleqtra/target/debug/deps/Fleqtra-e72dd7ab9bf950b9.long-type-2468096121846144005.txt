@@ -1,0 +1,2 @@
+fn(State<UserService>, axum::Json<LoginRequest>) -> impl Future<Output = impl IntoResponse> {login}
+fn(State<UserService>, axum::Json<LoginRequest>) -> impl Future<Output = impl IntoResponse> {login}: Handler<_, _>

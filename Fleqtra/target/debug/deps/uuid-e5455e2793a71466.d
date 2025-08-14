@@ -1,0 +1,13 @@
+H:\Datein\Private\Fleqtra\Fleqtra\Fleqtra\target\debug\deps\uuid-e5455e2793a71466.d: C:\Users\bukki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.17.0\src\lib.rs C:\Users\bukki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.17.0\src\builder.rs C:\Users\bukki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.17.0\src\error.rs C:\Users\bukki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.17.0\src\non_nil.rs C:\Users\bukki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.17.0\src\parser.rs C:\Users\bukki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.17.0\src\fmt.rs C:\Users\bukki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.17.0\src\timestamp.rs C:\Users\bukki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.17.0\src\external.rs C:\Users\bukki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.17.0\src\macros.rs
+
+H:\Datein\Private\Fleqtra\Fleqtra\Fleqtra\target\debug\deps\libuuid-e5455e2793a71466.rmeta: C:\Users\bukki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.17.0\src\lib.rs C:\Users\bukki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.17.0\src\builder.rs C:\Users\bukki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.17.0\src\error.rs C:\Users\bukki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.17.0\src\non_nil.rs C:\Users\bukki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.17.0\src\parser.rs C:\Users\bukki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.17.0\src\fmt.rs C:\Users\bukki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.17.0\src\timestamp.rs C:\Users\bukki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.17.0\src\external.rs C:\Users\bukki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.17.0\src\macros.rs
+
+C:\Users\bukki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.17.0\src\lib.rs:
+C:\Users\bukki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.17.0\src\builder.rs:
+C:\Users\bukki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.17.0\src\error.rs:
+C:\Users\bukki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.17.0\src\non_nil.rs:
+C:\Users\bukki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.17.0\src\parser.rs:
+C:\Users\bukki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.17.0\src\fmt.rs:
+C:\Users\bukki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.17.0\src\timestamp.rs:
+C:\Users\bukki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.17.0\src\external.rs:
+C:\Users\bukki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.17.0\src\macros.rs:
